@@ -8,3 +8,4 @@ Goal of this repository is to help understand the statistics behind all algorith
 ## List of Algorithms: 
 
 1. [Linear Regression Using Normal Equation](https://github.com/Hiten-98/ML-Algorithms-from-Scratch/blob/main/1_Linear_Regression_Using_Normal_Equation.ipynb)
+2. [Logistic Regression](https://github.com/Hiten-98/ML-Algorithms-from-Scratch/blob/main/2_Logistic_Regression.ipynb)
